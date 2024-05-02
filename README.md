@@ -135,6 +135,7 @@
         </ul>
         <h2>Learnt things from this project:</h2>
          <ul>
+             <ol>
             <li>Total Streams and Tracks: The total number of streams is 489 billion, and there are 953 tracks analyzed, with an average of 514 million streams per track.</li>
          <li>Streams by Release Date: There is a line graph showing the number of streams by release date of the tracks. It appears that there is an increase in streams for music released in more recent years, with notable spikes that could correspond to particularly popular songs or albums.</li>
          <li>Monthly Streaming Patterns: The table "Tracks and Streams By Month" shows the number of tracks released and the average streams for each month. January has the highest average streams, while December has the lowest number of tracks released. This could indicate seasonal trends in listening habits or release strategies by artists and record labels.</li>
@@ -142,6 +143,7 @@
          <li>Top 5 Most Streamed Tracks: The bottom right section shows the album covers and names of the top 5 most streamed tracks, which include songs by Tones and I, Ed Sheeran, Lewis Capaldi, and Post Malone. This gives an idea of the diversity of popular music on the platform.
               </li>
         </ul>
+             </ol>
         <h2>Some Important Insights from the Dashboard:</h2>
         <ul>
             <li>The track with the most number of streams was Blinding Lights, followed by Shape of You and Someone You Loved.</li>
