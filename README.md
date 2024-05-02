@@ -134,6 +134,7 @@
             <li>Custom Visual: Heatmap with Columns(Deneb)</li>
         </ul>
         <h2>Learnt things from this project:</h2>
+            <h1>Total Streams and Tracks: The total number of streams is 489 billion, and there are 953 tracks analyzed, with an average of 514 million streams per track.</h1>
         <ul>
         </ul>
         <h2>Some Important Insights from the Dashboard:</h2>
