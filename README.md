@@ -16,9 +16,9 @@
             <li>Make Glass morphism Background</li>
             <li>Load into PowerBI</li>
             <li>Create DAX</li>
-            <li>Make HTML code for Album Art</li>
-            <li>Make Deneb Heatmap</li>
-            <li>Make Deneb Donut</li>
+            <li>Make horizonatal bar graph</li>
+            <li>create line graph</li>
+            <li>create table </li>
         </ol>
         <h2>About the dataset:</h2>
         <p>The dataset consists of the following features:</p>
@@ -130,13 +130,13 @@
             <li>Slicers: Date, Track, Artist, Year.</li>
             <li>Card: Average streams per Year, Top Song vs AVG</li>
             <li>Card(New): Track, Artist, Release Date, Streams, No. of artists</li>
-            <li>Clustered Bar Chart: Tracks by No. of Streams</li>
-            <li>Custom Visual: Heatmap with Columns(Deneb)</li>
+            <li>Horizonatal Bar Chart: Tracks by No. of Streams</li>
+            <li>line graph:stream over time</li>
         </ul>
         <h2>Learnt things from this project:</h2>
          <ul>
              <ol>
-            <li>Line Graph (Streams by Release Date): This chart shows the trend of streams over time, with the x-axis representing the release date of tracks and the y-axis representing the number of streams. It's useful for visualizing changes and trends over a period..</li>
+            <li>Line Graph (Streams by Release Date): This chart shows the trend of streams over time, with the x-axis representing the release date of tracks and the y-axis representing the number of streams. It's useful for visualizing changes and trends over a period.</li>
          <li>Table (Tracks and Streams By Month): This is not a chart but a table that lists the number of tracks and average streams for each month. Tables are great for presenting exact figures and allowing for quick comparisons between different categories..</li>
          <li>Bar Graph (Daily Stream For All Tracks): This chart uses horizontal bars to represent the number of streams for each day of the week. The length of each bar corresponds to the total streams, making it easy to compare streaming activity across different days.</li>
          <li>Daily Streaming Patterns: The bar graph "Daily Stream For All Tracks" indicates that Friday has the highest number of streams, followed by Thursday and Wednesday. This suggests that streaming activity may be higher towards the end of the workweek.</li>
