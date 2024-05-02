@@ -136,11 +136,11 @@
         <h2>Learnt things from this project:</h2>
          <ul>
              <ol>
-            <li>Total Streams and Tracks: The total number of streams is 489 billion, and there are 953 tracks analyzed, with an average of 514 million streams per track.</li>
-         <li>Streams by Release Date: There is a line graph showing the number of streams by release date of the tracks. It appears that there is an increase in streams for music released in more recent years, with notable spikes that could correspond to particularly popular songs or albums.</li>
-         <li>Monthly Streaming Patterns: The table "Tracks and Streams By Month" shows the number of tracks released and the average streams for each month. January has the highest average streams, while December has the lowest number of tracks released. This could indicate seasonal trends in listening habits or release strategies by artists and record labels.</li>
+            <li>Line Graph (Streams by Release Date): This chart shows the trend of streams over time, with the x-axis representing the release date of tracks and the y-axis representing the number of streams. It's useful for visualizing changes and trends over a period..</li>
+         <li>Table (Tracks and Streams By Month): This is not a chart but a table that lists the number of tracks and average streams for each month. Tables are great for presenting exact figures and allowing for quick comparisons between different categories..</li>
+         <li>Bar Graph (Daily Stream For All Tracks): This chart uses horizontal bars to represent the number of streams for each day of the week. The length of each bar corresponds to the total streams, making it easy to compare streaming activity across different days.</li>
          <li>Daily Streaming Patterns: The bar graph "Daily Stream For All Tracks" indicates that Friday has the highest number of streams, followed by Thursday and Wednesday. This suggests that streaming activity may be higher towards the end of the workweek.</li>
-         <li>Top 5 Most Streamed Tracks: The bottom right section shows the album covers and names of the top 5 most streamed tracks, which include songs by Tones and I, Ed Sheeran, Lewis Capaldi, and Post Malone. This gives an idea of the diversity of popular music on the platform.
+         <li>Album Covers (Top 5 Most Streamed Tracks): While not a chart, this visual representation shows the album covers of the top 5 most streamed tracks, providing a quick visual reference for recognizing popular songs.
               </li>
         </ul>
              </ol>
